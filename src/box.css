@@ -1,0 +1,10 @@
+.square{
+    height: 150px;
+    width: 150px;
+    margin: 2px;
+    background-color: lawngreen;
+    font-size: 5rem;
+}
+.square:hover{
+    background-color: rgb(126, 252, 50);
+}
